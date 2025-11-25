@@ -12,6 +12,5 @@ for every kind. each code. __hcaptch__, __funcaptcha__, __recaptcha__.
 
 # Contact
 
-discord: **fardels**
-
-discord id: **1400048398417137734**
+discord: **`fardels`**
+discord id: **`1400048398417137734`**

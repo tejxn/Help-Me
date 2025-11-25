@@ -3,7 +3,7 @@
 
 
 If you seeing this please help me! send me a friend request on discord!
-im currently working on a project which requires ml training and i have every kind of dataset and everything required fully ready all i need is motivation & a supporter.
+im currently working on a project which requires ml training and i have every kind of dataset and everything required thing completely ready all i need is motivation & a supporter.
 so i need help of someone who is interested in captcha solving using ai/ml
 
 (Artificial Intelligence/Machine Learning)
